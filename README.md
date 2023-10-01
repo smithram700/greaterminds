@@ -1,1 +1,1 @@
-# greaterminds
+# greaterminds.github.io
